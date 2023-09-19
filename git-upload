@@ -1,0 +1,6 @@
+#!/bin/bash
+git add .
+git config --global user.name robisnot
+git config --global user.email roberts.celmalis47@gmail.com
+git commit -m "Class_4a"
+git push origin main
